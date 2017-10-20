@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="frequency_options">
+        <item>30 minutes</item>
+        <item>hour</item>
+        <item>two hours</item>
+        <item>six hours</item>
+        <item>day</item>
+
+    </string-array>
+
+    <string-array name="times_checked">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+        <item>105</item>
+        <item>110</item>
+        <item>115</item>
+        <item>120</item>
+        <item>125</item>
+        <item>130</item>
+        <item>135</item>
+        <item>140</item>
+        <item>145</item>
+        <item>150</item>
+
+    </string-array>
+
+    <string-array name="angry_phrases">
+
+        <item>I told you to stop checking your phone</item>
+        <item>You son of a b****... get off your phone!</item>
+        <item>!!!!!!!!</item>
+        <item>Don\'t waste your life on your stupid cellphone</item>
+        <item>Quit checking your phone, you make me sick</item>
+        <item>F**k you, get off your phone</item>
+        <item>If you don\'t get off your phone right now, you\'re going to regret it</item>
+        <item>STOP CHECKING YOUR PHONE</item>
+        <item>SERIOUSLY, STOP CHECKING YOUR PHONE</item>
+        <item>BOOOOOOO! You\'re seriously disappointing me right now</item>
+        <item>Imagine what you could achieve in all those wasted hours if you just put your damn phone down?</item>
+        <item>Warning: You\'re wasting your day</item>
+        <item>Warning: You\'re wasting your day</item>
+        <item>Let us make your future now, and let us make our dreams tomorrow\'s reality. Get off your f***ing phone. </item>
+        <item>Seize the day. Get off your phone. </item>
+        <item>WTF. So that\'s how it\'s going to be... You\'re going to just keep spending time on your phone.</item>
+
+
+
+
+
+
+    </string-array>
+
+    <string-array name="gentle_reminders">
+
+        <item>Hey good looking, don\'t you think it is time to put that phone away?</item>
+        <item>I hope you\'re having a wonderful day! Let\'s make it a special one, and not waste too much time on our phone, ok?</item>
+        <item>It would be lovely if you\'d put your phone down, thanks!</item>
+        <item>Just a gentle reminder that you\'re looking at your phone a bit too often!</item>
+        <item>Excuse me, but haven\'t you spent enough time on your phone?</item>
+        <item>I\'d really appreciate it if you\'d put your phone away for a bit, thanks!</item>
+        <item>I\'d sure love it if you\'d put your phone away!</item>
+        <item>Ahem.</item>
+        <item>Come on now, you have better things to do.</item>
+        <item>Is this really helping?</item>
+        <item>Think of the progress you\'re losing.</item>
+        <item>Imagine the brain fog if you keep going.</item>
+        <item>Will you care about this in 5 hours? 5 days? 5 years? Put down the phone!</item>
+        <item>Is this really what you want for yourself?</item>
+        <item>When you\'re old and looking back on your life, what do you want to look back on? Wasting your life on your phone is no way to live.</item>
+        <item>You are what you do. Do something meaningful, and don\'t waste your time.</item>
+        <item>Don\'t waste your time, or time will waste you. Get off your phone.</item>
+        <item>Put your heart, mind, and soul into even your smallest acts. </item>
+        <item>Happiness is not something you postpone for the future; it is something you design for the present. Get off your phone. </item>
+        <item>There is nothing impossible to him who will try - Alexander the Great </item>
+        <item>Don\'t judge each day by the harvest you reap but by the seeds that you plant. With that in mind, get off your phone. </item>
+        <item>Your future depends on what you do today.</item>
+        <item>Wake up and live. - Bob Marley</item>
+        <item>You only get one life. Use it wisely.</item>
+        <item>Time is the most important thing you have.</item>
+
+
+
+
+    </string-array>
+</resources>

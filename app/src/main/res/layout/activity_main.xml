@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.tylersapps.phonechecker.MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How often are you going to allow yourself to check your phone?"
+        android:textAppearance="@android:style/TextAppearance.Material.Display1"
+        android:textAlignment="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="51dp" />
+
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView2"
+        android:layout_margin="32dp"
+        android:id="@+id/relativeLayout">
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Times allowed:"
+        style="@style/SpinnerTextViewItem"
+
+        />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_alignLeft="@id/textView3"
+        android:text="Every:"
+        android:layout_marginTop="8dp"
+        style="@style/SpinnerTextViewItem"/>
+
+
+
+
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/textView3"
+        android:layout_toRightOf="@id/textView3"
+        android:layout_alignTop="@id/textView3"
+        style="@style/SpinnerTextViewItem"
+
+ />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/textView4"
+        android:layout_toRightOf="@id/textView4"
+        android:layout_alignTop="@id/textView4"
+        style="@style/SpinnerTextViewItem"
+
+        />
+
+
+    </RelativeLayout>
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        style="@style/CheckboxStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp"
+        android:text="If I check my phone too often, I want this app to annoy me." />
+
+</RelativeLayout>
